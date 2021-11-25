@@ -1,0 +1,92 @@
+{
+    "inmobiliaria": [
+        {
+            "casas": [
+                {
+                    "localidad": "España, Madrid",
+                    "direccion": "Ave del paraïso Nº1",
+                    "antigüedad": "Menos de 1 año",
+                    "plantas": "3",
+                    "precio": "157.000€",
+                    "garaje": "Si",
+                    "m2": "82",
+                    "imgs": "./imgs/casa1/"
+                },
+                {
+                    "localidad": "España, Valencia",
+                    "direccion": "Avenida Blasco Ibáñez Nº2",
+                    "antigüedad": "3 años",
+                    "plantas": "2",
+                    "precio": "98.000€",
+                    "garaje": "No",
+                    "m2": "66",
+                    "imgs": "./imgs/casa2/"
+                }
+            ],
+            "pisos": [
+                {
+                    "localidad": "España, Gijón",
+                    "direccion": "Calle Pravia Nº24, 3r piso, puerta 2",
+                    "antigüedad": "9 años",
+                    "plantas": "1",
+                    "precio": "56.000€",
+                    "garaje": "Si",
+                    "m2": "54",
+                    "imgs": "./imgs/piso1/"
+                }, 
+                {
+                    "localidad": "España, Sevilla",
+                    "direccion": "Calle del Agua Nº89, 1r piso, puerta 1",
+                    "antigüedad": "6 años",
+                    "plantas": "1",
+                    "precio": "75.000€",
+                    "garaje": "Si",
+                    "m2": "84",
+                    "imgs": "./imgs/piso2/"
+                }
+            ],
+            "locales": [
+                {
+                    "localidad": "España, Barcelona",
+                    "direccion": "Calle de Julià, Nº189",
+                    "antigüedad": "40 años",
+                    "plantas": "1",
+                    "precio": "50.000€",
+                    "almacen": "Si",
+                    "m2": "102",
+                    "imgs": "./imgs/local1/"
+                }, 
+                {
+                    "localidad": "España, Cartagena",
+                    "direccion": "Avenida de la Cebada, Nº87",
+                    "antigüedad": "60 a 80 años",
+                    "plantas": "2",
+                    "precio": "105.000€",
+                    "almacen": "Si",
+                    "m2": "178",
+                    "imgs": "./imgs/local2/"
+                }
+            ], 
+            "garajes": [
+                {
+                    "localidad": "España, Albacete",
+                    "direccion": "Calle de las Monjas, Nº98",
+                    "antigüedad": "20 años",
+                    "plazas": "4",
+                    "precio": "30.000€",
+                    "m2": "100",
+                    "imgs": "./imgs/garaje1/"
+                },
+                {
+                    "localidad": "España, Bilbao",
+                    "direccion": "Calle Autonomía, Nº5",
+                    "antigüedad": "15 años",
+                    "plazas": "2",
+                    "precio": "10.000€",
+                    "m2": "50",
+                    "imgs": "./imgs/garaje2/"
+                }
+            ]
+        }
+    ]
+}
