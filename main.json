@@ -22,7 +22,9 @@
                     "m2": "66",
                     "imgs": "./imgs/casa2/"
                 }
-            ],
+            ]
+        }, 
+        {
             "pisos": [
                 {
                     "localidad": "España, Gijón",
@@ -44,7 +46,9 @@
                     "m2": "84",
                     "imgs": "./imgs/piso2/"
                 }
-            ],
+            ]
+        },
+        {
             "locales": [
                 {
                     "localidad": "España, Barcelona",
@@ -66,7 +70,9 @@
                     "m2": "178",
                     "imgs": "./imgs/local2/"
                 }
-            ], 
+            ]
+        }, 
+        {
             "garajes": [
                 {
                     "localidad": "España, Albacete",
