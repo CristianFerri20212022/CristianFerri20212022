@@ -4,7 +4,7 @@
             "casas": [
                 {
                     "localidad": "España, Madrid",
-                    "direccion": "Ave del paraïso Nº1",
+                    "direccion": "Calle 1",
                     "antigüedad": "Menos de 1 año",
                     "plantas": "3",
                     "precio": "157.000€",
@@ -14,7 +14,7 @@
                 },
                 {
                     "localidad": "España, Valencia",
-                    "direccion": "Avenida Blasco Ibáñez Nº2",
+                    "direccion": "Calle 2",
                     "antigüedad": "3 años",
                     "plantas": "2",
                     "precio": "98.000€",
@@ -48,7 +48,7 @@
             "pisos": [
                 {
                     "localidad": "España, Gijón",
-                    "direccion": "Calle Pravia Nº24, 3r piso, puerta 2",
+                    "direccion": "Calle 1, 1r piso, puerta 1",
                     "antigüedad": "9 años",
                     "plantas": "1",
                     "precio": "56.000€",
@@ -58,7 +58,7 @@
                 }, 
                 {
                     "localidad": "España, Sevilla",
-                    "direccion": "Calle del Agua Nº89, 1r piso, puerta 1",
+                    "direccion": "Calle 2, 2r piso, puerta 2",
                     "antigüedad": "6 años",
                     "plantas": "1",
                     "precio": "75.000€",
@@ -72,7 +72,7 @@
             "locales": [
                 {
                     "localidad": "España, Barcelona",
-                    "direccion": "Calle de Julià, Nº189",
+                    "direccion": "Calle 1",
                     "antigüedad": "40 años",
                     "plantas": "1",
                     "precio": "50.000€",
@@ -82,7 +82,7 @@
                 }, 
                 {
                     "localidad": "España, Cartagena",
-                    "direccion": "Avenida de la Cebada, Nº87",
+                    "direccion": "Calle 2",
                     "antigüedad": "60 a 80 años",
                     "plantas": "2",
                     "precio": "105.000€",
@@ -96,7 +96,7 @@
             "garajes": [
                 {
                     "localidad": "España, Albacete",
-                    "direccion": "Calle de las Monjas, Nº98",
+                    "direccion": "Calle 1",
                     "antigüedad": "20 años",
                     "plazas": "4",
                     "precio": "30.000€",
@@ -105,7 +105,7 @@
                 },
                 {
                     "localidad": "España, Bilbao",
-                    "direccion": "Calle Autonomía, Nº5",
+                    "direccion": "Calle 2",
                     "antigüedad": "15 años",
                     "plazas": "2",
                     "precio": "10.000€",
