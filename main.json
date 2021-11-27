@@ -48,7 +48,7 @@
             "pisos": [
                 {
                     "localidad": "Gijón",
-                    "direccion": "Calle 1, 1r piso, puerta 1",
+                    "direccion": "Calle 1 - Planta 1 - Puerta 1",
                     "antigüedad": "9 años",
                     "plantas": "1",
                     "precio": "56.000€",
@@ -58,7 +58,7 @@
                 }, 
                 {
                     "localidad": "Sevilla",
-                    "direccion": "Calle 2, 2r piso, puerta 2",
+                    "direccion": "Calle 2 - Planta 2 - Puerta 2",
                     "antigüedad": "6 años",
                     "plantas": "1",
                     "precio": "75.000€",
