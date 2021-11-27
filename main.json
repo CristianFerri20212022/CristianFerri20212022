@@ -10,7 +10,7 @@
                     "precio": "157.000€",
                     "garaje": "Si",
                     "m2": "82",
-                    "imgs": "./imgs/casa1/"
+                    "imgs": "./imgs/casas/casa1/"
                 },
                 {
                     "localidad": "España, Valencia",
@@ -20,7 +20,7 @@
                     "precio": "98.000€",
                     "garaje": "No",
                     "m2": "66",
-                    "imgs": "./imgs/casa2/"
+                    "imgs": "./imgs/casas/casa2/"
                 }
             ]
         }, 
@@ -34,7 +34,7 @@
                     "precio": "56.000€",
                     "garaje": "Si",
                     "m2": "54",
-                    "imgs": "./imgs/piso1/"
+                    "imgs": "./imgs/pisos/piso1/"
                 }, 
                 {
                     "localidad": "España, Sevilla",
@@ -44,7 +44,7 @@
                     "precio": "75.000€",
                     "garaje": "Si",
                     "m2": "84",
-                    "imgs": "./imgs/piso2/"
+                    "imgs": "./imgs/pisos/piso2/"
                 }
             ]
         },
@@ -58,7 +58,7 @@
                     "precio": "50.000€",
                     "almacen": "Si",
                     "m2": "102",
-                    "imgs": "./imgs/local1/"
+                    "imgs": "./imgs/locales/local1/"
                 }, 
                 {
                     "localidad": "España, Cartagena",
@@ -68,7 +68,7 @@
                     "precio": "105.000€",
                     "almacen": "Si",
                     "m2": "178",
-                    "imgs": "./imgs/local2/"
+                    "imgs": "./imgs/locales/local2/"
                 }
             ]
         }, 
@@ -81,7 +81,7 @@
                     "plazas": "4",
                     "precio": "30.000€",
                     "m2": "100",
-                    "imgs": "./imgs/garaje1/"
+                    "imgs": "./imgs/garajes/garaje1/"
                 },
                 {
                     "localidad": "España, Bilbao",
@@ -90,7 +90,7 @@
                     "plazas": "2",
                     "precio": "10.000€",
                     "m2": "50",
-                    "imgs": "./imgs/garaje2/"
+                    "imgs": "./imgs/garajes/garaje2/"
                 }
             ]
         }
