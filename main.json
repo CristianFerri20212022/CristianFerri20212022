@@ -3,7 +3,7 @@
         {
             "casas": [
                 {
-                    "localidad": "España, Madrid",
+                    "localidad": "Madrid",
                     "direccion": "Calle 1",
                     "antigüedad": "Menos de 1 año",
                     "plantas": "3",
@@ -13,7 +13,7 @@
                     "imgs": "./imgs/casas/casa1/"
                 },
                 {
-                    "localidad": "España, Valencia",
+                    "localidad": "Valencia",
                     "direccion": "Calle 2",
                     "antigüedad": "3 años",
                     "plantas": "2",
@@ -23,7 +23,7 @@
                     "imgs": "./imgs/casas/casa2/"
                 }, 
                 {
-                    "localidad": "España, Barcelona",
+                    "localidad": "Barcelona",
                     "direccion": "Avenida 1",
                     "antigüedad": "1 años",
                     "plantas": "1",
@@ -33,7 +33,7 @@
                     "imgs": "./imgs/casas/casa3/"
                 }, 
                 {
-                    "localidad": "España, Galicia",
+                    "localidad": "Galicia",
                     "direccion": "Avenida 2",
                     "antigüedad": "3 años",
                     "plantas": "1",
@@ -47,7 +47,7 @@
         {
             "pisos": [
                 {
-                    "localidad": "España, Gijón",
+                    "localidad": "Gijón",
                     "direccion": "Calle 1, 1r piso, puerta 1",
                     "antigüedad": "9 años",
                     "plantas": "1",
@@ -57,7 +57,7 @@
                     "imgs": "./imgs/pisos/piso1/"
                 }, 
                 {
-                    "localidad": "España, Sevilla",
+                    "localidad": "Sevilla",
                     "direccion": "Calle 2, 2r piso, puerta 2",
                     "antigüedad": "6 años",
                     "plantas": "1",
@@ -71,7 +71,7 @@
         {
             "locales": [
                 {
-                    "localidad": "España, Barcelona",
+                    "localidad": "Barcelona",
                     "direccion": "Calle 1",
                     "antigüedad": "40 años",
                     "plantas": "1",
@@ -81,7 +81,7 @@
                     "imgs": "./imgs/locales/local1/"
                 }, 
                 {
-                    "localidad": "España, Cartagena",
+                    "localidad": "Cartagena",
                     "direccion": "Calle 2",
                     "antigüedad": "60 a 80 años",
                     "plantas": "2",
@@ -95,7 +95,7 @@
         {
             "garajes": [
                 {
-                    "localidad": "España, Albacete",
+                    "localidad": "Albacete",
                     "direccion": "Calle 1",
                     "antigüedad": "20 años",
                     "plazas": "4",
@@ -104,7 +104,7 @@
                     "imgs": "./imgs/garajes/garaje1/"
                 },
                 {
-                    "localidad": "España, Bilbao",
+                    "localidad": "Bilbao",
                     "direccion": "Calle 2",
                     "antigüedad": "15 años",
                     "plazas": "2",
