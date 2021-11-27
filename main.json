@@ -27,9 +27,9 @@
                     "direccion": "Avenida 1",
                     "antigüedad": "1 años",
                     "plantas": "1",
-                    "precio": "98.000€",
+                    "precio": "87.000€",
                     "garaje": "No",
-                    "m2": "66",
+                    "m2": "60",
                     "imgs": "./imgs/casas/casa3/"
                 }, 
                 {
@@ -37,9 +37,9 @@
                     "direccion": "Avenida 2",
                     "antigüedad": "3 años",
                     "plantas": "1",
-                    "precio": "98.000€",
+                    "precio": "63.000€",
                     "garaje": "No",
-                    "m2": "66",
+                    "m2": "54",
                     "imgs": "./imgs/casas/casa4/"
                 }
             ]
