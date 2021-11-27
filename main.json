@@ -23,24 +23,24 @@
                     "imgs": "./imgs/casas/casa2/"
                 }, 
                 {
-                    "localidad": "España, Valencia",
-                    "direccion": "Avenida Blasco Ibáñez Nº2",
-                    "antigüedad": "3 años",
-                    "plantas": "2",
+                    "localidad": "España, Barcelona",
+                    "direccion": "Avenida 1",
+                    "antigüedad": "1 años",
+                    "plantas": "1",
                     "precio": "98.000€",
                     "garaje": "No",
                     "m2": "66",
-                    "imgs": "./imgs/casas/casa2/"
+                    "imgs": "./imgs/casas/casa3/"
                 }, 
                 {
-                    "localidad": "España, Valencia",
-                    "direccion": "Avenida Blasco Ibáñez Nº2",
+                    "localidad": "España, Galicia",
+                    "direccion": "Avenida 2",
                     "antigüedad": "3 años",
-                    "plantas": "2",
+                    "plantas": "1",
                     "precio": "98.000€",
                     "garaje": "No",
                     "m2": "66",
-                    "imgs": "./imgs/casas/casa2/"
+                    "imgs": "./imgs/casas/casa4/"
                 }
             ]
         }, 
