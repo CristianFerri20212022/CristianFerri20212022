@@ -21,6 +21,26 @@
                     "garaje": "No",
                     "m2": "66",
                     "imgs": "./imgs/casas/casa2/"
+                }, 
+                {
+                    "localidad": "España, Valencia",
+                    "direccion": "Avenida Blasco Ibáñez Nº2",
+                    "antigüedad": "3 años",
+                    "plantas": "2",
+                    "precio": "98.000€",
+                    "garaje": "No",
+                    "m2": "66",
+                    "imgs": "./imgs/casas/casa2/"
+                }, 
+                {
+                    "localidad": "España, Valencia",
+                    "direccion": "Avenida Blasco Ibáñez Nº2",
+                    "antigüedad": "3 años",
+                    "plantas": "2",
+                    "precio": "98.000€",
+                    "garaje": "No",
+                    "m2": "66",
+                    "imgs": "./imgs/casas/casa2/"
                 }
             ]
         }, 
