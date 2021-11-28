@@ -34,17 +34,6 @@
                     "garaje": "No",
                     "m2": "60",
                     "imgs": "./imgs/casas/casa3/"
-                }, 
-                {
-                    "localidad": "Galicia",
-                    "direccion": "Avenida 2",
-                    "antigüedad": "3 años",
-                    "plantas": 1,
-                    "habitaciones": 4,
-                    "precio": "63.000€",
-                    "garaje": "No",
-                    "m2": "54",
-                    "imgs": "./imgs/casas/casa4/"
                 }
             ]
         }, 
