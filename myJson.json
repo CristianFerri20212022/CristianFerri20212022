@@ -22,7 +22,7 @@
                     "Marchas": "9",
                     "Precio": "3.899€",
                     "Imgs": "./imgs/scott.jpg"
-                },
+                }
             ],
             "Electricas" : [
                 {
@@ -45,7 +45,7 @@
                     "Potencia": "500W",
                     "Precio": "2.339€",
                     "Imgs": "./imgs/ktm.jpg"
-                },
+                }
             ]
         }
     ]
