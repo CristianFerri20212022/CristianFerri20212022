@@ -23,7 +23,9 @@
                     "Precio": "3.899€",
                     "Imgs": "./imgs/scott.jpg"
                 }
-            ],
+            ]
+        },
+        {
             "Electricas" : [
                 {
                     "Marca": "Trekking",
