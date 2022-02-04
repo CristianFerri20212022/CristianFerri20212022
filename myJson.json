@@ -1,0 +1,52 @@
+{
+    "Bicicletas" : [
+        {
+            "Mecánicas" : [
+                {
+                    "Marca": "Orbea",
+                    "Modelo": "Rise H10",
+                    "Marchas": "8",
+                    "Precio": "4.999€",
+                    "Imgs": "./imgs/orbea.jpg"
+                },
+                {
+                    "Marca": "Giant",
+                    "Modelo": "Fastroad E+ EX",
+                    "Marchas": "7",
+                    "Precio": "4.500€",
+                    "Imgs": "./imgs/giant.jpg"
+                },
+                {
+                    "Marca": "Scott",
+                    "Modelo": "Plasma",
+                    "Marchas": "9",
+                    "Precio": "3.899€",
+                    "Imgs": "./imgs/scott.jpg"
+                },
+            ],
+            "Electricas" : [
+                {
+                    "Marca": "Trekking",
+                    "Modelo": "Riverside EBIKE 540",
+                    "Potencia": "450W",
+                    "Precio": "2.199€€",
+                    "Imgs": "./imgs/trekking.jpg"
+                },
+                {
+                    "Marca": "Rockerider",
+                    "Modelo": "EBIKE ST 100",
+                    "Potencia": "250W",
+                    "Precio": "1.099€",
+                    "Imgs": "./imgs/rockerider.jpg"
+                },
+                {
+                    "Marca": "KTM",
+                    "Modelo": "Macina Ride 291",
+                    "Potencia": "500W",
+                    "Precio": "2.339€",
+                    "Imgs": "./imgs/ktm.jpg"
+                },
+            ]
+        }
+    ]
+}
